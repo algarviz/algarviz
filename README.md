@@ -1,7 +1,7 @@
 #### Hi there 👋 I'm Alvaro!
 
 Born in Madrid, Spain. My formal studies are in Advertising and Multimedia Communications. However I had been always tinkering with computers since I was a little kid. Therefore some time ago I decided to recicle myself and pursuit a professional career in software and web development.
-Thanks to you for visiting my Github profile! ☺️
+Thanks you for visiting my Github profile! ☺️
 
 #### Languages I'm working on learning right now:
 ![My Skills](https://skillicons.dev/icons?i=swift,js,html,css)
