@@ -4,7 +4,7 @@ Born in Madrid, Spain. My formal studies are in Advertising and Multimedia Commu
 Thanks you for visiting my Github profile! ☺️
 
 #### Languages I'm working on learning right now:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react)
 
 #### Software & Technologies I currently use:
 ![My Skills](https://skillicons.dev/icons?i=github,vscode,raspberrypi,arduino,ps,ai)
