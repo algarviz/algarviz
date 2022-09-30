@@ -7,4 +7,4 @@ Thanks you for visiting my Github profile! ☺️
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react)
 
 #### Software & Technologies I currently use:
-![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,openshift,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=kubernetes,openshift,docker,github,vscode)
