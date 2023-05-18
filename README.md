@@ -39,10 +39,10 @@ I'm also a massive enthusiastic of self hosting and containerization. That's why
 
 ***
 
-#### My Titles and Certificates:
+#### My Official Degrees and Certificates:
 - Computer Engineering Degree by the Universitat Oberta de Catalunya.
-- IBM's Full Stack Cloud Certified Engineer.
+- IBM's Full Stack Cloud Professional Engineer Certificate.
 - Containers & Kubernetes Certificate by IBM.
-- Developing Cloud Native Applications Certificate by IBM
+- Developing Cloud Native Applications Certificate by IBM.
 - Python for AI and Application Development Certificate by IBM.
 - Python for Data Science and AI Certificate by IBM.
