@@ -11,7 +11,7 @@ I'm also a massive enthusiastic of self hosting and containerization. That's why
 ***
 
 #### My Titles and Certificates:
-Computer Engineer by the Universitat Oberta de Catalunya.
-IBM's Full Stack Cloud Certified Engineer.
-Python Project for AI and Application Development by IBM.
-Python for Data Science and AI by IBM.
+- Computer Engineer by the Universitat Oberta de Catalunya.
+- IBM's Full Stack Cloud Certified Engineer.
+- Python Project for AI and Application Development by IBM.
+- Python for Data Science and AI by IBM.
