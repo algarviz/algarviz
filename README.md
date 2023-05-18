@@ -2,7 +2,7 @@
 
 Born in Madrid, Spain. I'm Computer Engineer with a big focus on System Administration, Security Hardening and Back-End Development.
 
-I'm also a massive enthusiastic of self hosting and containerization. That's why my goal is to build a massive self-hosting open source documentation here in GitHub. Hope I finish this before the century ends :)
+I'm also a massive enthusiastic of self hosting and containerization. That's why my goal is to build a massive self-hosting open source documentation here in GitHub. Hope I finish this before the century ends lol.
 
 ***
 
