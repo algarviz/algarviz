@@ -1,10 +1,13 @@
 #### Hi there 👋 I'm Álvaro!
 
-Born in Madrid, Spain. My formal studies are in Advertising and Multimedia Communications. However I had been always tinkering with computers since I was a little kid. Therefore some time ago I decided to recicle myself and pursuit a professional career in web and app development.
-Thank you for visiting my Github profile! ☺️
+Born in Madrid, Spain. I'm Computer Engineer with a big focus on System Administration, Security Hardening and Back-End Development.
 
-#### Languages & Frameworks I'm working on learning right now:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react)
+I'm also a massive enthusiastic of self hosting and containerization. That's why my goal is to build a massive self-hosting open source documentation here in GitHub. Hope I finish this before the century ends :)
 
-#### Software & Technologies I currently use:
-![My Skills](https://skillicons.dev/icons?i=kubernetes,openshift,docker,github,vscode)
+## Languages, Software and Frameworks I'm proficient with:
+
+## My Titles and Certificates:
+Computer Engineer by the Universitat Oberta de Catalunya.
+IBM's Full Stack Cloud Certified Engineer.
+Python Project for AI and Application Development by IBM.
+Python for Data Science and AI by IBM.
