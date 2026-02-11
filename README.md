@@ -2,8 +2,6 @@
 
 Born in Madrid, Spain. I'm Computer Engineer with a big focus on System Administration, Security Hardening and Back-End Development.
 
-I'm also a massive enthusiast of self hosting and containerization. That's why my goal is to build a massive self hosting open-source documentation here in GitHub. Hope I finish this before the century ends lol.
-
 ***
 
 #### Languages, Softwares and Frameworks I'm proficient with:
@@ -41,6 +39,8 @@ I'm also a massive enthusiast of self hosting and containerization. That's why m
 
 #### My Official Degrees and Certificates:
 - Computer Engineering Degree by the Universitat Oberta de Catalunya.
+- Offensive Security Certified Profesional.
+- Google´s Cybersecurity Certificate.
 - IBM's Full Stack Cloud Professional Engineer Certificate.
 - Containers & Kubernetes Certificate by IBM.
 - Developing Cloud Native Applications Certificate by IBM.
